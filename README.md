@@ -4,6 +4,7 @@
 ### Step2: Setting up your excel to enable developer tab
 ![image](https://user-images.githubusercontent.com/71779024/100195111-d21dbf80-2f31-11eb-9633-39c1473e2da3.png)
 ![image](https://user-images.githubusercontent.com/71779024/100195539-73a51100-2f32-11eb-9caa-c58219bf7d17.png)
+* Check then click ok button
 ![image](https://user-images.githubusercontent.com/71779024/100195755-c4b50500-2f32-11eb-9c1a-59cbe7356eed.png)
 ### Step3: Adding XML schema
 ![image](https://user-images.githubusercontent.com/71779024/100196002-25dcd880-2f33-11eb-8fe4-0e164812e370.png)
