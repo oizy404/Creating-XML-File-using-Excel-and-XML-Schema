@@ -15,7 +15,7 @@
 * Choose rentals as a root
 ![image](https://user-images.githubusercontent.com/71779024/100197217-fdee7480-2f34-11eb-8e21-53b1b819ecd6.png)
 ![image](https://user-images.githubusercontent.com/71779024/100197491-57ef3a00-2f35-11eb-8b6e-d75d9d67bccf.png)
-* Check the following
+* Check the following:
 ![image](https://user-images.githubusercontent.com/71779024/100197688-997fe500-2f35-11eb-9607-2d1975f435df.png)
 * Right click the rentals root  then click Map element
 ![image](https://user-images.githubusercontent.com/71779024/100198149-6b4ed500-2f36-11eb-8ec3-947d09f83f86.png)
